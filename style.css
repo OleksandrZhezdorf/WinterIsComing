@@ -1,0 +1,11 @@
+canvas {
+    box-sizing: border-box;
+    background-image: url(pictures/_DSC8279_.jpg);
+    background-size: cover;
+    background-position: center;
+    border: 20px solid #111;
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    max-width: 500px;
+  }
